@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+ipython = "*"
+python-language-server = "*"
 
 [requires]
 python_version = "3.7"
